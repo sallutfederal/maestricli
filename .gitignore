@@ -1,0 +1,29 @@
+# ---------------------------------------------------------------------------
+# Artefatos extraidos do app de terceiro (Evercraft Labs / Maestri).
+#
+# Nao versionados de proposito:
+#   - 01-extracted/     ~1 GB de binarios, bundles e node_modules do app
+#   - 03-reconstructed/ codigo do app desobfuscado pelo webcrack
+#   - 02-analysis/roundtrip/  o app.asar remontado
+#
+# Sao material proprietario de terceiros ePesariam de mais de 1 GB no git.
+# Todo o fluxo para regera-los esta documentado no README.
+# ---------------------------------------------------------------------------
+01-extracted/
+03-reconstructed/
+02-analysis/roundtrip/
+
+# Dumps brutos de strings e campos extraidos dos binarios (7 MB).
+# Sao transcricoes literais de conteudo dos binarios do app.
+02-analysis/*-native.json
+02-analysis/*-fields.json
+
+# Dependencias npm das ferramentas
+tools/node/
+node_modules/
+package-lock.json
+
+# Diversos
+*.log
+.DS_Store
+Thumbs.db

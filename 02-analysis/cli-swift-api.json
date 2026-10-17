@@ -1,0 +1,333 @@
+{
+  "modules": [
+    {
+      "name": "Foundation",
+      "symbols": 50,
+      "types": 13,
+      "kinds": {
+        "unknown": 42,
+        "class": 8
+      }
+    },
+    {
+      "name": "SubSequence",
+      "symbols": 1,
+      "types": 0,
+      "kinds": {
+        "unknown": 1
+      }
+    },
+    {
+      "name": "IntegerLiteralType",
+      "symbols": 1,
+      "types": 0,
+      "kinds": {
+        "unknown": 1
+      }
+    },
+    {
+      "name": "ArrayLiteralElement",
+      "symbols": 1,
+      "types": 0,
+      "kinds": {
+        "unknown": 1
+      }
+    },
+    {
+      "name": "ID",
+      "symbols": 1,
+      "types": 0,
+      "kinds": {
+        "unknown": 1
+      }
+    },
+    {
+      "name": "Index",
+      "symbols": 1,
+      "types": 0,
+      "kinds": {
+        "unknown": 1
+      }
+    },
+    {
+      "name": "Stride",
+      "symbols": 1,
+      "types": 0,
+      "kinds": {
+        "unknown": 1
+      }
+    },
+    {
+      "name": "Element",
+      "symbols": 2,
+      "types": 0,
+      "kinds": {
+        "unknown": 2
+      }
+    },
+    {
+      "name": "Indices",
+      "symbols": 1,
+      "types": 0,
+      "kinds": {
+        "unknown": 1
+      }
+    },
+    {
+      "name": "AllCases",
+      "symbols": 1,
+      "types": 0,
+      "kinds": {
+        "unknown": 1
+      }
+    },
+    {
+      "name": "Iterator",
+      "symbols": 1,
+      "types": 0,
+      "kinds": {
+        "unknown": 1
+      }
+    },
+    {
+      "name": "RawValue",
+      "symbols": 1,
+      "types": 0,
+      "kinds": {
+        "unknown": 1
+      }
+    },
+    {
+      "name": "Magnitude",
+      "symbols": 1,
+      "types": 0,
+      "kinds": {
+        "unknown": 1
+      }
+    },
+    {
+      "name": "WinSDK",
+      "symbols": 8,
+      "types": 8,
+      "kinds": {
+        "unknown": 8
+      }
+    },
+    {
+      "name": "FoundationEssentials",
+      "symbols": 130,
+      "types": 20,
+      "kinds": {
+        "unknown": 109,
+        "class": 21
+      }
+    },
+    {
+      "name": "Regions",
+      "symbols": 1,
+      "types": 1,
+      "kinds": {
+        "unknown": 1
+      }
+    },
+    {
+      "name": "Dispatch",
+      "symbols": 27,
+      "types": 2,
+      "kinds": {
+        "unknown": 23,
+        "class": 4
+      }
+    },
+    {
+      "name": "FoundationNetworking",
+      "symbols": 12,
+      "types": 5,
+      "kinds": {
+        "unknown": 11,
+        "class": 1
+      }
+    },
+    {
+      "name": "Crypto",
+      "symbols": 33,
+      "types": 33,
+      "kinds": {
+        "unknown": 33
+      }
+    },
+    {
+      "name": "MaestriCoreKit",
+      "symbols": 17,
+      "types": 17,
+      "kinds": {
+        "unknown": 17
+      }
+    },
+    {
+      "name": "maestri",
+      "symbols": 3,
+      "types": 3,
+      "kinds": {
+        "unknown": 3
+      }
+    }
+  ],
+  "app_modules": [
+    {
+      "name": "Crypto",
+      "symbols": 33
+    },
+    {
+      "name": "MaestriCoreKit",
+      "symbols": 17
+    },
+    {
+      "name": "WinSDK",
+      "symbols": 8
+    },
+    {
+      "name": "maestri",
+      "symbols": 3
+    },
+    {
+      "name": "Element",
+      "symbols": 2
+    },
+    {
+      "name": "SubSequence",
+      "symbols": 1
+    },
+    {
+      "name": "IntegerLiteralType",
+      "symbols": 1
+    },
+    {
+      "name": "ArrayLiteralElement",
+      "symbols": 1
+    },
+    {
+      "name": "ID",
+      "symbols": 1
+    },
+    {
+      "name": "Index",
+      "symbols": 1
+    },
+    {
+      "name": "Stride",
+      "symbols": 1
+    },
+    {
+      "name": "Indices",
+      "symbols": 1
+    },
+    {
+      "name": "AllCases",
+      "symbols": 1
+    },
+    {
+      "name": "Iterator",
+      "symbols": 1
+    },
+    {
+      "name": "RawValue",
+      "symbols": 1
+    },
+    {
+      "name": "Magnitude",
+      "symbols": 1
+    },
+    {
+      "name": "Regions",
+      "symbols": 1
+    }
+  ],
+  "types": [
+    {
+      "type": "Foundation.CharacterSet",
+      "kind": "class",
+      "members": []
+    },
+    {
+      "type": "Foundation.JSONSerialization",
+      "kind": "class",
+      "members": []
+    },
+    {
+      "type": "Foundation.NSRegularExpression",
+      "kind": "class",
+      "members": []
+    },
+    {
+      "type": "Foundation.ISO8601DateFormatter",
+      "kind": "class",
+      "members": []
+    },
+    {
+      "type": "Foundation._BridgedStoredNSError",
+      "kind": "class",
+      "members": []
+    },
+    {
+      "type": "FoundationEssentials.CocoaError",
+      "kind": "class",
+      "members": []
+    },
+    {
+      "type": "FoundationEssentials.JSONEncoder",
+      "kind": "class",
+      "members": []
+    },
+    {
+      "type": "FoundationEssentials.URLComponents",
+      "kind": "class",
+      "members": []
+    },
+    {
+      "type": "FoundationEssentials.DateComponents",
+      "kind": "class",
+      "members": []
+    },
+    {
+      "type": "FoundationEssentials.URL",
+      "kind": "class",
+      "members": []
+    },
+    {
+      "type": "FoundationEssentials.Data",
+      "kind": "class",
+      "members": []
+    },
+    {
+      "type": "FoundationEssentials.Date",
+      "kind": "class",
+      "members": []
+    },
+    {
+      "type": "FoundationEssentials.UUID",
+      "kind": "class",
+      "members": []
+    },
+    {
+      "type": "FoundationEssentials.Locale",
+      "kind": "class",
+      "members": []
+    },
+    {
+      "type": "FoundationEssentials.Calendar",
+      "kind": "class",
+      "members": []
+    },
+    {
+      "type": "FoundationEssentials.TimeZone",
+      "kind": "class",
+      "members": []
+    },
+    {
+      "type": "FoundationNetworking.URLRequest",
+      "kind": "class",
+      "members": []
+    }
+  ]
+}

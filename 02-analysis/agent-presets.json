@@ -1,0 +1,57 @@
+[
+  {
+    "id": "C1A0DE00-0000-4000-8000-000000000001",
+    "name": "Claude Code",
+    "command": "claude",
+    "icon": "seal",
+    "isActive": true,
+    "maestroMode": false,
+    "startInChatMode": false,
+    "codexDaemonMigration": null,
+    "identity": null
+  },
+  {
+    "id": "C1A0DE00-0000-4000-8000-000000000002",
+    "name": "Codex",
+    "command": "codex --no-daemon",
+    "icon": "brain",
+    "isActive": true,
+    "maestroMode": false,
+    "startInChatMode": false,
+    "codexDaemonMigration": "added",
+    "identity": null
+  },
+  {
+    "id": "C1A0DE00-0000-4000-8000-000000000003",
+    "name": "Antigravity",
+    "command": "agy",
+    "icon": "sparkle",
+    "isActive": true,
+    "maestroMode": false,
+    "startInChatMode": false,
+    "codexDaemonMigration": null,
+    "identity": null
+  },
+  {
+    "id": "C1A0DE00-0000-4000-8000-000000000004",
+    "name": "OpenCode",
+    "command": "opencode",
+    "icon": "rectangle.portrait",
+    "isActive": true,
+    "maestroMode": false,
+    "startInChatMode": false,
+    "codexDaemonMigration": null,
+    "identity": null
+  },
+  {
+    "id": "C1A0DE00-0000-4000-8000-000000000005",
+    "name": "Shell",
+    "command": "",
+    "icon": "terminal",
+    "isActive": true,
+    "maestroMode": false,
+    "startInChatMode": false,
+    "codexDaemonMigration": null,
+    "identity": null
+  }
+]

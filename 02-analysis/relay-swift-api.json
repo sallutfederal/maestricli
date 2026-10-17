@@ -1,0 +1,119 @@
+{
+  "modules": [
+    {
+      "name": "Crypto",
+      "symbols": 33,
+      "types": 33,
+      "kinds": {
+        "unknown": 33
+      }
+    },
+    {
+      "name": "FoundationEssentials",
+      "symbols": 39,
+      "types": 39,
+      "kinds": {
+        "unknown": 39
+      }
+    },
+    {
+      "name": "MaestriCoreKit",
+      "symbols": 17,
+      "types": 17,
+      "kinds": {
+        "unknown": 17
+      }
+    },
+    {
+      "name": "maestri",
+      "symbols": 3,
+      "types": 3,
+      "kinds": {
+        "unknown": 3
+      }
+    },
+    {
+      "name": "Dispatch",
+      "symbols": 8,
+      "types": 0,
+      "kinds": {
+        "unknown": 8
+      }
+    },
+    {
+      "name": "Foundation",
+      "symbols": 30,
+      "types": 30,
+      "kinds": {
+        "unknown": 30
+      }
+    },
+    {
+      "name": "Synchronization",
+      "symbols": 2,
+      "types": 2,
+      "kinds": {
+        "unknown": 2
+      }
+    },
+    {
+      "name": "_StringProcessing",
+      "symbols": 11,
+      "types": 11,
+      "kinds": {
+        "unknown": 11
+      }
+    },
+    {
+      "name": "_FoundationCollections",
+      "symbols": 5,
+      "types": 5,
+      "kinds": {
+        "unknown": 5
+      }
+    },
+    {
+      "name": "FoundationNetworking",
+      "symbols": 11,
+      "types": 11,
+      "kinds": {
+        "unknown": 11
+      }
+    },
+    {
+      "name": "_RegexParser",
+      "symbols": 5,
+      "types": 5,
+      "kinds": {
+        "unknown": 5
+      }
+    }
+  ],
+  "app_modules": [
+    {
+      "name": "Crypto",
+      "symbols": 33
+    },
+    {
+      "name": "MaestriCoreKit",
+      "symbols": 17
+    },
+    {
+      "name": "_StringProcessing",
+      "symbols": 11
+    },
+    {
+      "name": "_RegexParser",
+      "symbols": 5
+    },
+    {
+      "name": "maestri",
+      "symbols": 3
+    },
+    {
+      "name": "Synchronization",
+      "symbols": 2
+    }
+  ],
+  "types": []
+}

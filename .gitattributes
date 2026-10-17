@@ -1,0 +1,13 @@
+# Normaliza line endings: o repositorio guarda LF, o checkout no Windows pode
+# converter para CRLF. Evita diff espúrio e o warning "LF will be replaced".
+* text=auto eol=lf
+
+*.mjs text eol=lf
+*.json text eol=lf
+*.md  text eol=lf
+
+# Nada binário versionado neste repo, mas explicito caso entre algo.
+*.asar binary
+*.exe  binary
+*.dll  binary
+*.so   binary
